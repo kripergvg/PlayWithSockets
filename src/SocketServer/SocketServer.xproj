@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>24f35dd4-d926-4bd2-b453-822a42aeb5c5</ProjectGuid>
-    <RootNamespace>PlayWithSockets</RootNamespace>
+    <ProjectGuid>b1fb3149-d192-40c2-a702-2572605ba025</ProjectGuid>
+    <RootNamespace>SocketServer</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
